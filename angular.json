@@ -28,7 +28,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/bootstrap.min.css",
+              "src/sticky-footer-navbar.scss"
             ],
             "scripts": []
           },
@@ -123,6 +125,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "cms-nestjs-ng"
 }
